@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0072B3</color>
+    <color name="colorPrimaryDark">#133D8D</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="main_color">#162c75</color>
+    <color name="typing">#143d8c</color>
+    <color name="btn_send">#774df2</color>
+    <color name="btn_send_disabled">#8e8e8e</color>
+    <color name="bn_blanco">#FFFFFF</color>
+    <color name="bn_celeste">#6FC7EA</color>
+    <color name="bn_chat_azul">#0072B3</color>
+    <color name="bn_gris">#CCCCCC</color>
+    <color name="bn_menu_azul">#133D8D</color>
+        <color name="bn_chat_verde">#B5BF00</color>
+    <color name="bn_shadow">#9c9c9c</color>
+</resources>
